@@ -68,12 +68,17 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 <br />
 
 
-### 🤷‍♂️ Any having exp??
+### 🤷‍♂️ Other exp?
 <br />
 
 [<img src="https://img.shields.io/badge/ParsePlatform-169CEE?style=flat-square&logo=ParsePlatform&logoColor=white" />](https://parseplatform.org)
 [<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logoColor=white" />](https://parseplatform.org)
 [<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />](https://parseplatform.org)
+<br />
+<br />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=Java&logoColor=white" />
 <br />
 <br />
 
