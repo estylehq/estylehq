@@ -43,6 +43,7 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 <img src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=white" />
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
 <br />
 <br />
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white" />
