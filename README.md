@@ -9,9 +9,9 @@
 ### 🙋‍♂️ Introducing
 <br />
 
-Starting Android app developer in 2012 until 2015.
+Starting Android app developer at 2012 until 2015.
 
-Developed Web with Vue(Nuxt), React in 2015 and still now working at <b>Nuxt.js</b>.
+Developed Web with Vue(Nuxt), React in 2015 and still now working with <b>Nuxt.js</b>.
 
 Last project used `composition-api with nuxt2` with `typescript` and Studying now `Nuxt3 with composition api`.
 <br />
