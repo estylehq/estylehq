@@ -78,7 +78,7 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 <br />
 <br />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Android Studio with IntelliJ-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=Java&logoColor=white" />
 <br />
 <br />
