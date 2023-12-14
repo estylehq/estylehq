@@ -62,8 +62,10 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin with Android-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 <br />
 <br />
 <br />
@@ -77,7 +79,6 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 [<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />](https://parseplatform.org)
 <br />
 <br />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
 <img src="https://img.shields.io/badge/Android Studio with IntelliJ-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=Java&logoColor=white" />
 <br />
