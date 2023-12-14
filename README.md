@@ -23,8 +23,8 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 ### 💻 What am I use now?
 <br />
 
-[<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />](https://vuejs.org/)
 [<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />](https://nuxt.com/)
+[<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />](https://vuejs.org/)
 [<img src="https://img.shields.io/badge/Pinia-ffd859?style=flat-square&logoColor=white" />](https://pinia.vuejs.org/)<br />
 <br />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
