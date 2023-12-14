@@ -23,8 +23,8 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 ### 💻 What can I use?
 <br />
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" /><br />
+[<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />](https://vuejs.org/)
+[<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />](https://nuxt.com/)<br />
 <br />
 <img src="https://img.shields.io/badge/Pinia-ffd859?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
@@ -51,7 +51,7 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 <br />
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin with Android-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
 <br />
@@ -61,7 +61,7 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 
 ### 🤷‍♂️ What Can I use else?
 <br />
-<img src="https://img.shields.io/badge/ParsePlatform-169CEE?style=flat-square&logo=ParsePlatform&logoColor=white" />
+[<img src="https://img.shields.io/badge/ParsePlatform-169CEE?style=flat-square&logo=ParsePlatform&logoColor=white" />](https://parseplatform.org)
 
 
 ---
