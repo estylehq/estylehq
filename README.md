@@ -61,6 +61,7 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 
 ### 🤷‍♂️ What Can I use else?
 <br />
+
 [<img src="https://img.shields.io/badge/ParsePlatform-169CEE?style=flat-square&logo=ParsePlatform&logoColor=white" />](https://parseplatform.org)
 
 
