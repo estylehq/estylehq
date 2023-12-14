@@ -20,18 +20,12 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 
 
 
-### 💻 Main JS Framwork
+### 💻 What can I use?
 <br />
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" /><br />
 <br />
-<br />
-<br />
-
-
-### 🤷‍♂️ What Can I else?
-<br />
-
 <img src="https://img.shields.io/badge/Pinia-ffd859?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
@@ -40,6 +34,17 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 <br />
 <br />
 
+
+### 🔨 Using tools?
+<br />
+<img src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=white" />
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white" />
+<br />
+<br />
+<br />
 
 
 ### 🧐 Interesting
@@ -54,13 +59,9 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 <br />
 
 
-### 🔨 What am I using?
+### 🤷‍♂️ What Can I use else?
 <br />
-<img src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=white" />
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white" />
-<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white" />
+<img src="https://img.shields.io/badge/ParsePlatform-169CEE?style=flat-square&logo=ParsePlatform&logoColor=white" />
 
 
 ---
