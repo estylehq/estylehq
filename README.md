@@ -24,11 +24,14 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 <br />
 
 [<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />](https://vuejs.org/)
-[<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />](https://nuxt.com/)<br />
+[<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white" />](https://nuxt.com/)
+[<img src="https://img.shields.io/badge/Pinia-ffd859?style=flat-square&logoColor=white" />](https://pinia.vuejs.org/)<br />
 <br />
-<img src="https://img.shields.io/badge/Pinia-ffd859?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
+<br />
+<br />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
 <br />
 <br />
@@ -40,7 +43,13 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 <img src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=white" />
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+<br />
+<br />
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
+<br />
+<br />
 <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white" />
 <br />
 <br />
@@ -63,6 +72,8 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 <br />
 
 [<img src="https://img.shields.io/badge/ParsePlatform-169CEE?style=flat-square&logo=ParsePlatform&logoColor=white" />](https://parseplatform.org)
+<br />
+<br />
 
 
 ---
