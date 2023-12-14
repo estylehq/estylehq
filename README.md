@@ -20,7 +20,7 @@ Last project used `composition-api with nuxt2` with `typescript` and Studying no
 
 
 
-### 💻 What can I use?
+### 💻 What am I use now?
 <br />
 
 [<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />](https://vuejs.org/)
